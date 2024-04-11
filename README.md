@@ -1,5 +1,7 @@
 IPL Score Prediction
-IPL Image
+
+![IPL 2024](https://images.news18.com/ibnlive/uploads/2023/11/ipl_2024_live_updates-2023-11-a9b6336a8f392bf8b04374ba46914130.jpg?impolicy=website&width=640&height=480)
+
 
 Overview
 This project aims to predict the scores of Indian Premier League (IPL) matches using machine learning algorithms. The Indian Premier League is one of the most popular Twenty20 cricket leagues worldwide, and predicting scores accurately can provide valuable insights for teams, broadcasters, and fans.
